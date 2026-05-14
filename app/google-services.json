@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "610705729076",
+    "firebase_url": "https://vidyarthibus-17bcd-default-rtdb.firebaseio.com",
+    "project_id": "vidyarthibus-17bcd",
+    "storage_bucket": "vidyarthibus-17bcd.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:610705729076:android:23041db5119bec503e8c61",
+        "android_client_info": {
+          "package_name": "com.example.vidyarthibus"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5PuTUBkW_aY6tzLikrNbkgaAGsgcqhws"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
