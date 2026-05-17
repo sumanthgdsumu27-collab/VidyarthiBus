@@ -50,9 +50,8 @@ VidyarthiBus/
 ./gradlew assembleDebug
 ```
 
-## Screenshots
-
-*(Add screenshots here)*
+## Screenshots folder link :
+https://drive.google.com/drive/folders/1KTuwRcHUDE8vJvywglgFlJUqHn3S7t7n?usp=sharing
 
 ## Developer
 
